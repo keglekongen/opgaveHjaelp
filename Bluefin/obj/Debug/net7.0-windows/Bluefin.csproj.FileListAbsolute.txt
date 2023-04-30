@@ -1,0 +1,352 @@
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.cache
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.lref
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.exe
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll.config
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.deps.json
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\AddRestaurant.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\AddRestaurant.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.g.resources
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\refint\Bluefin.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\ref\Bluefin.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\App.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.baml
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.exe
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll.config
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.deps.json
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.runtimeconfig.json
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.AssemblyReference.cache
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\AddRestaurant.baml
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\AddRestaurant.g.cs
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.g.cs
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.g.cs
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.cache
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.lref
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\App.baml
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.baml
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.baml
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.baml
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.g.resources
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfoInputs.cache
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfo.cs
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CoreCompileInputs.cache
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.dll
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\refint\Bluefin.dll
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.genruntimeconfig.cache
+C:\Users\45223\Desktop\Repositories\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\ref\Bluefin.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Bluefin\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CopyComplete
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.exe
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll.config
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.deps.json
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.runtimeconfig.json
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.AssemblyReference.cache
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\Restaurant.baml
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.g.cs
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.g.cs
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\Restaurant.g.cs
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.cache
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.lref
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.baml
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.baml
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.baml
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.baml
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.g.resources
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfoInputs.cache
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfo.cs
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CoreCompileInputs.cache
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CopyComplete
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.dll
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\refint\Bluefin.dll
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.genruntimeconfig.cache
+C:\Users\45313\Desktop\Eksamen\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\ref\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Themes\ButtonTheme.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Themes\MenuButtonTheme.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Themes\SearchBoxTheme.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\Restaurant.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\Restaurant.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.lref
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\refint\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\AddShop.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\AdminView.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\HomeView.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.exe
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll.config
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.deps.json
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.runtimeconfig.json
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\App.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\AddShop.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\AdminView.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\HomeView.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.g.resources
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfo.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CopyComplete
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\Bluefin.genruntimeconfig.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Bluefin\Bluefin\obj\Debug\net7.0-windows\ref\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\ButtonTheme.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\MenuButtonTheme.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\SearchBoxTheme.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\Restaurant.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AddShop.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AdminView.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\HomeView.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\Restaurant.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.lref
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\refint\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\WPF branch\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.AssemblyReference.cache
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\ButtonTheme.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\MenuButtonTheme.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\SearchBoxTheme.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\Restaurant.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AddShop.g.cs
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AdminView.g.cs
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\HomeView.g.cs
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.g.cs
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.g.cs
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\Restaurant.g.cs
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.cache
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.lref
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.dll
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\refint\Bluefin.dll
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.exe
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll.config
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.deps.json
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.runtimeconfig.json
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AddShop.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AdminView.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\HomeView.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.baml
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.g.resources
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfoInputs.cache
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfo.cs
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CoreCompileInputs.cache
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CopyComplete
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.genruntimeconfig.cache
+C:\Users\45223\Desktop\Repositories\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\ref\Bluefin.dll
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.exe
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll.config
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.deps.json
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.runtimeconfig.json
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.pdb
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.AssemblyReference.cache
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\ButtonTheme.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\MenuButtonTheme.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\SearchBoxTheme.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AddShop.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AdminView.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\HomeView.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.cache
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.lref
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AddShop.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AdminView.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\HomeView.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.g.resources
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfoInputs.cache
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfo.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CoreCompileInputs.cache
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CopyComplete
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.dll
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\refint\Bluefin.dll
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.pdb
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.genruntimeconfig.cache
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\ref\Bluefin.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.exe
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll.config
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.deps.json
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\ButtonTheme.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\MenuButtonTheme.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\SearchBoxTheme.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AddShop.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AdminView.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\HomeView.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.cache
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.lref
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AddShop.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AdminView.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\HomeView.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.g.resources
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CopyComplete
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\refint\Bluefin.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\ref\Bluefin.dll
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RestaurantWinow.baml
+C:\Users\chris\OneDrive\Desktop\Git Repository\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RestaurantWinow.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.exe
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll.config
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.deps.json
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.runtimeconfig.json
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\ButtonTheme.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\MenuButtonTheme.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Themes\SearchBoxTheme.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AddShop.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AdminView.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\HomeView.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin_MarkupCompile.lref
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\App.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AddShop.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\AdminView.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\HomeView.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\LoginWindow.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\MainWindow.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterWindow.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.g.resources
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.AssemblyInfo.cs
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.csproj.CopyComplete
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\refint\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.pdb
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\Bluefin.genruntimeconfig.cache
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\ref\Bluefin.dll
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RestaurantWindow.baml
+C:\Users\chris\source\repos\GitHub\eksame projekt team 7\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RestaurantWindow.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RestaurantWindow.baml
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterUCView.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RestaurantWindow.g.cs
+D:\GitHub\Eksame\Team-7-eksamen\Bluefin\obj\Debug\net7.0-windows\View\RegisterUCView.baml
